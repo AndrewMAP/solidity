@@ -1,7 +1,7 @@
 pragma solidity ^0.4.0;
 
 /*
-  Election Contract, fair election for a speciofied amount of time and allowed a specified of people to vote in it
+  Election Contract, fair election for a specific amount of time and allows specified addresses to vote in it
 */
 
 contract Election{
